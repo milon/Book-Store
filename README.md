@@ -1,4 +1,4 @@
-bookstore
+Book Store
 =========
 
 This is a web based book store CMS.
